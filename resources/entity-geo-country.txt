@@ -1,0 +1,196 @@
+Afghanistan
+Afrika Selatan
+Albania
+Aljazair
+Amerika Serikat
+Andorra
+Angola
+Antigua and Barbuda
+Arab Saudi
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahama
+Bahrain
+Bangladesh
+Barbados
+Belanda
+Belarusia
+Belgia
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia dan Herzegovina
+Botswana
+Brazil
+Brunei Darusalam
+Bulgaria
+Burkina Faso
+Burundi
+Chad
+Chili
+China
+Cyprus
+Denmark
+Djibouti
+Dominika
+Ekuador
+El Salvador
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Filipina
+Finlandia
+Gabon
+Gambia
+Georgia
+Ghana
+Guinea Khatulistiwa
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungaria
+Islandia
+India
+Indonesia
+Inggris
+Iran
+Irak
+Irlandia
+Israel
+Italia
+Jamaika
+Jepang
+Jerman
+Jordania
+Kamboja
+Kamerun
+Kanada
+Kazakhstan
+Kenya
+Kepulauan Marshall
+Kepulauan Solomon
+Kiribati
+Kolombia
+Komoros
+Korea Selatan
+Korea Utara
+Kosovo
+Kosta Rica
+Kroasia
+Kuba
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libia
+Liechtenstein
+Lithuania
+Luxembourg
+Makedonia
+Madagaskar
+Malawi
+Malaysia
+Maladewa
+Mali
+Malta
+Maroko
+Mauritania
+Mauritius
+Meksiko
+Mesir
+Moldova
+Monako
+Mongolia
+Montenegro
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru, beribukota di Distrik Yaren'),
+Negara Federasi Mikronesia
+Nepal
+Nikaragua
+Niger
+Nigeria
+Norwegia
+Oman
+Pakistan
+Palau
+Palestina
+Panama
+Pantai Gading
+Papua New Guinea
+Paraguay
+Peru
+Prancis
+Polandia
+Portugal
+Qatar
+Republik Afrika Tengah
+Republik Kongo
+Republik Demokratik Kongo
+Republik Ceko
+Republik Dominika
+Rumania
+Rusia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Selandia Baru
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapura
+Slovakia
+Slovenia
+Somalia
+Spanyol
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Swedia
+Switzerland
+Siria
+Tanjung Verde
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turki
+Turkmenistan
+Tuvalu
+Uganda
+Ukraina
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Yaman
+Yunani
+Zambia
+Zimbabwe
